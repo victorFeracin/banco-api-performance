@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-This project contains performance tests for the banco-api using **k6**.  
+This project contains performance tests for the [banco-api](https://github.com/victorFeracin/banco-api) using **k6**.  
 The goal is to evaluate the API's behavior under different load conditions, ensuring reliability, scalability, and performance.
 
 The tests simulate real-world usage scenarios such as authentication, account operations, and transactions.
